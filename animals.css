@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+nav1 img{
+    width: 10%;
+    padding: 10px;
+}
+nav1 .float-left { 
+    float: left; 
+}
+nav1 p {
+    padding-right: 70px;
+}
+ul {
+    list-style: none;
+    padding-top: 10px;
+}
+a {
+    text-decoration: none;
+    color: #9932cc;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+nav2 img{
+    width: 10%;
+    padding: 10px;
+}
+nav2 .float-left { 
+    float: left; 
+}
+nav2 p{
+    padding-right: 70px;
+    margin-top: 20px;
+}
+H2{
+    padding-top: 50px;
+    margin: 10px;
+}
+nav3 img{
+    width: 10%;
+    padding: 10px;
+}
+nav3 h2{
+   margin-top: 90px;
+}
+nav3 .float-left { 
+    float: left; 
+}
+nav3 p{
+    padding-right: 70px;
+    margin-top: 20px;
+}
+nav4 img{
+    width: 10%;
+    padding: 10px;
+}
+nav4 h2{
+    margin-top: 70px;
+}
+nav4 .float-left { 
+    float: left; 
+}
+nav4 p { 
+    padding-right: 70px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+nav5 img{
+    width: 10%;
+    padding: 10px;
+}
+}
+nav5 h2{
+    margin-top: 50px;
+}
+nav5 .float-left { 
+    float: left; 
+}
+Nav5 p{
+    padding-right: 70px;
+    margin-top: 20px;
+}
+h2{
+    margin-left: 100px;
+}
+img{
+    margin-left: 50px;
+}

@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+   background-color:white; 
+   padding: 30px;
+   text-align: center;
+}
+header h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+header h2{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+header p{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+main nav ul a{
+    color: black;
+    text-decoration: none;
+}
+main nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+main nav1 img{
+    width: 6cm;
+}
+header img{
+    width: 30%;
+}
+aside{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+aside h2{
+    font-size: 26px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+aside p{
+    margin-bottom: 10px;
+}
